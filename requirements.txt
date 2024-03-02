@@ -1,0 +1,17 @@
+streamlit
+SpeechRecognition
+PyAudio
+setuptools
+sounddevice
+streamlit-audiorec
+Recognizer
+google-generativeai
+python-dotenv
+PdfReader
+PyPDF2
+Image
+pathlib
+Pillow
+gTTS
+AudioSegment
+pydub
